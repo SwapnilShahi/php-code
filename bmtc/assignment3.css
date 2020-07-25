@@ -1,0 +1,36 @@
+.banner-image{
+ padding-top: 75px;
+ padding-bottom: 50px;
+ text-align: center;
+ color: #f8f8f8;
+ background: url(img/1st.jpg) no-repeat center;
+ background-size: cover;
+ padding-left: 50px;
+}
+.banner_content{
+    position: relative;
+ padding-top: 6%;
+ padding-bottom: 6%;
+ margin-top: 12%;
+ margin-bottom: 12%;
+ background-color: rgba(0, 0, 0, 0.7);
+ max-width: 660px;
+ 
+}
+footer{
+    padding: 10px;
+ background-color: #101010;
+ color:#9d9d9d;
+ bottom: 0;
+ width: 100%;
+}
+.innerbi{
+    padding-top: 12%;
+    padding-left:320px;
+    width:80%;
+    margin:auto;
+    padding-bottom: 400px;
+}
+.row{
+    padding-left: 300px;
+}

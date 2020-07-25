@@ -1,0 +1,93 @@
+footer{
+    padding: 10px;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+.banner_content{          
+    padding-bottom: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(img/giphy.gif) no-repeat center;
+    background-size:cover;
+    min-height: 500px;
+    min-width: 100px;
+    padding-right: 100px;
+     
+}
+p{
+    color:whitesmoke;
+    font-size: 20px;
+    text-align: center;
+    padding-right: 60px;
+}  
+.container-fluid{
+    float:left;
+}
+.links{
+    
+    color:black;
+   
+}
+
+h2{
+    font-style:italic ;
+    color:black;
+    font-weight:bold;
+}
+a:hover{
+    color:darkslateblue;
+    font-size: 30px;
+}
+h3{
+    color:white;
+}
+
+.navbar-brand,a{
+    font-size: 30px;
+    
+    
+}
+
+
+
+.navbar-inverse{
+    min-height: 70px;
+    height: 60px;
+    padding-bottom: 10px;
+    background-color: black;
+   
+    border-color: grey;
+   
+    font-size:80px;
+}
+.abc{
+    color:white;
+    font-size:60px;
+    font-family: Georgia, serif;
+}
+.mov >.navbar-inverse{
+    background-color: black;
+     border-color:#455c43;
+}
+.new{
+    padding-left: 450px;
+    
+}
+a:hover{
+    color:maroon;
+}
+.templatemo-search-form{
+    font-size:1.1em;
+    margin:50px 20px;
+}
+.template-search-form .input-group{width:100%}
+.template-search-form .input-group .form-control{
+    background-color: #18191b;
+    border:none;
+    color:#DDD;
+    border-radius: 10px;
+    padding-left: 30px;
+}
